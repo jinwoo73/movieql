@@ -1,0 +1,18 @@
+{
+  "name": "movieql",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Movie Api",
+  "main": "index.js",
+  "repository": "https://github.com/jinwoo73/movieql",
+  "author": "jinwoo <jinwoo73@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "graphql-yoga": "^1.18.3",
+    "node-fetch": "^2.6.1"
+  }
+}
